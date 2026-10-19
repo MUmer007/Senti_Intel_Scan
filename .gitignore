@@ -1,0 +1,16 @@
+﻿node_modules/
+.next/
+.env
+.env.local
+dist/
+.DS_Store
+
+# Ignore Nuclei binaries and zips
+/nuclei.exe/
+/nuclei/
+*.zip
+
+# Ignore Nuclei binaries and zips
+/nuclei.exe/
+/nuclei/
+*.zip

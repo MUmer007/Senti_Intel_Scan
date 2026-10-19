@@ -1,0 +1,8 @@
+﻿packages:
+  - 'apps/*'
+  - 'packages/*'
+allowBuilds:
+  core-js: false
+  esbuild: false
+  msgpackr-extract: true
+  unrs-resolver: false
