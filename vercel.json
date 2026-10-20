@@ -1,4 +1,0 @@
-﻿{
-    "outputDirectory":  "apps/web/.next",
-    "buildCommand":  "cd apps/web \u0026\u0026 pnpm run build"
-}

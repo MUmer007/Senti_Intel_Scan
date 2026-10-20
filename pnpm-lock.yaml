@@ -228,6 +228,9 @@ importers:
       shadcn:
         specifier: ^4.21.4
         version: 4.21.4(supports-color@7.2.0)
+      shared:
+        specifier: workspace:*
+        version: link:../../packages/shared
       tailwind-merge:
         specifier: ^3.7.0
         version: 3.7.0
